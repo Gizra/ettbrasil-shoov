@@ -1,0 +1,10 @@
+{
+  "name": "Behat tests for http://ettbrasil.com.br/portal",
+  "description": "Functional testing for http://ettbrasil.com.br/portal site.",
+  "require": {
+    "drupal/drupal-extension": "~3.0"
+  },
+  "config": {
+    "bin-dir": "bin/"
+  }
+}
